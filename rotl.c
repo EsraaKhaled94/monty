@@ -2,8 +2,7 @@
 /**
   *f_rotl- rotates the stack to the top
   *@head: stack head
-  *@counter: line_number
-  *Return: no return
+  *@counter: line number
  */
 void f_rotl(stack_t **head,  __attribute__((unused)) unsigned int counter)
 {
