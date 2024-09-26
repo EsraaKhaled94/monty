@@ -2,8 +2,7 @@
 /**
  * f_pop - prints the top
  * @head: stack head
- * @counter: line_number
- * Return: no return
+ * @counter: line number
 */
 void f_pop(stack_t **head, unsigned int counter)
 {
